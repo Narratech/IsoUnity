@@ -7,6 +7,9 @@ An isometric retro-style editor for unity. (http://narratech.com/en/isounity/)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/IsoUnity/Lobby)
 [![Build Status](https://travis-ci.org/Victorma/IsoUnity.svg?branch=master)](https://travis-ci.org/Victorma/IsoUnity)
 
+Technical documents about IsoUnity in the UCM e-Prints repository: 
+https://eprints.ucm.es/cgi/searchdocencia/simple?q=isounity
+
 An introduction to IsoUnity
 --------
 
